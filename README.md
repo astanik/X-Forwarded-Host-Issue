@@ -3,7 +3,7 @@
 See: https://github.com/quarkusio/quarkus/issues/4922
 
 
-## Running the test case
+## Precondition
 
 Configuration is enabled
 ```
